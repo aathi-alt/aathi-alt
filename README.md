@@ -158,7 +158,7 @@ const ismail = {
 > ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 > ![SEO](https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white)
 
-- 🌐 Developed and delivered production-grade WordPress sites including [login360.in](https://login360.in/), [banktechasia.com](https://banktechasia.com/), [healux.in](https://healux.in/)
+- 🌐 Developed and delivered production-grade WordPress sites including [login360.in](https://login360.in/)
 - 📚 Trained cohorts of students and professionals in front-end & back-end web technologies with a focus on real-world projects
 - ✅ Built and maintained multiple client sites with integrations for SEO, WooCommerce, and custom PHP functionality
 - 🤝 Bridged training and development — acting as both technical trainer and active developer on live client deliverables
@@ -178,7 +178,7 @@ const ismail = {
 > ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 - 🌏 Delivered web solutions for clients across Malaysia, Dubai, and India in a fully remote capacity over 4+ years
-- 🛠️ Built and launched 14+ production websites including [goldenunicon.com](https://goldenunicon.com), [amlhackathon.com](https://amlhackathon.com), [hackathonmalaysia.com](https://hackathonmalaysia.com)
+- 🛠️ Built and launched 14+ production websites including [goldenunicon.com](https://goldenunicon.com), [amlhackathon.com](https://amlhackathon.com), [hackathonmalaysia.com](https://hackathonmalaysia.com,[banktechasia.com](https://banktechasia.com/), [healux.in](https://healux.in/)
 - ☁️ Managed web hosting, domain configuration, and deployment pipelines via AWS and cPanel
 - 🔧 Developed full-stack web applications using PHP, JavaScript, MySQL, and custom CMS integrations
 
