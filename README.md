@@ -130,7 +130,7 @@ const ismail = {
 ## 💼 Work Experience
 
 <details>
-<summary>🏢 <strong>Futurenow Ahead Software Training Institute</strong> — Branch Head & Trainer (Thanjavur Division) | Jun 2025 – May 2026</summary>
+<summary>🏢 <strong>X</strong> — Branch Head & Trainer (Thanjavur Division) | Jun 2025 – May 2026</summary>
 
 <br/>
 
@@ -148,7 +148,7 @@ const ismail = {
 </details>
 
 <details>
-<summary>🏢 <strong>Login360 — Coimbatore</strong> — Senior Technical Trainer & WordPress Developer | Aug 2022 – Apr 2023 (Part-time) · Jul 2024 – May 2025 (Full-time)</summary>
+<summary>🏢 <strong>X</strong> — Senior Technical Trainer & WordPress Developer | Aug 2022 – Apr 2023 (Part-time) · Jul 2024 – May 2025 (Full-time)</summary>
 
 <br/>
 
@@ -166,7 +166,7 @@ const ismail = {
 </details>
 
 <details>
-<summary>🏢 <strong>GoldenUnicon (Remote)</strong> — Web Application Developer | Jan 2020 – Jul 2024 · Madurai</summary>
+<summary>🏢 <strong>X</strong> — Web Application Developer | Jan 2020 – Jul 2024 · Madurai</summary>
 
 <br/>
 
@@ -185,7 +185,7 @@ const ismail = {
 </details>
 
 <details>
-<summary>🏢 <strong>Qf4 Technologies</strong> — Web Application Developer | Dec 2018 – Jan 2020 · Madurai</summary>
+<summary>🏢 <strong>X</strong> — Web Application Developer | Dec 2018 – Jan 2020 · Madurai</summary>
 
 <br/>
 
@@ -202,7 +202,7 @@ const ismail = {
 </details>
 
 <details>
-<summary>🏢 <strong>Itechnion Solutions</strong> — Software Trainee (Java) | Sep 2015 – Nov 2018 · Madurai</summary>
+<summary>🏢 <strong>X</strong> — Software Trainee (Java) | Sep 2015 – Nov 2018 · Madurai</summary>
 
 <br/>
 
