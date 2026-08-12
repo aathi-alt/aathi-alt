@@ -13,7 +13,7 @@ const ismail = {
   name: "Ismail N",
   location: "Thanjavur, India 📍",
   degree: "Bachelor of Computer Application (BCA)",
-  role: "Branch Manager (Technical Operations) | UI Developer & Trainer",
+  role: "Senior Software Trainer | UI Developer",
 
   stack: [
     "HTML", "CSS", "JavaScript", "jQuery", "React.js",
@@ -130,7 +130,7 @@ const ismail = {
 ## 💼 Work Experience
 
 <details>
-<summary>🏢 <strong>X</strong> — Branch Head & Trainer (Thanjavur Division) | Jun 2025 – May 2026</summary>
+<summary>🏢 <strong>X</strong> — Senior Technical Trainer (Thanjavur Division) | Jun 2025 to Present</summary>
 
 <br/>
 
@@ -243,7 +243,6 @@ const ismail = {
 |----|------------|---------|
 | 🌐 | **14+ Live Production Websites** | Delivered web projects for clients in India, Malaysia, and Dubai |
 | 👨‍🏫 | **Technical Trainer — 2+ Years** | Trained students and professionals in web dev, AI tools, and digital marketing |
-| 🏢 | **Branch Head** | Managed the Thanjavur division of Futurenow Ahead Software Training Institute |
 | 🤖 | **AI-Integrated Curriculum** | Introduced ChatGPT, Gemini & Prompt Engineering into training modules |
 | 🔁 | **Full-Time + Part-Time Dual Role** | Successfully handled production dev at Login360 while continuing training delivery |
 | ☁️ | **Cloud Deployment Experience** | Deployed and managed web applications on AWS and cPanel platforms |
